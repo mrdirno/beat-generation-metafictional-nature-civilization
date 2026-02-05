@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_metafictional_nature_civilization",
+  "title": "THE ROOT IN THE RAIN",
+  "tagline": "In a city that rains data, a thief must learn to read the silence of a world that remembers how to grow.",
+  "target_words": 70000,
+  "actual_words": 71645,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Textuality of Reality",
+    "The Memory of Nature vs. Curated Civilization",
+    "Theft as an Act of Preservation",
+    "Listening as a Radical Act"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Annotated Rain",
+      "words": 2985
+    },
+    {
+      "ch": 2,
+      "title": "The Fossilized Sonnet",
+      "words": 2985
+    },
+    {
+      "ch": 3,
+      "title": "The Fungal Tunnels",
+      "words": 2985
+    },
+    {
+      "ch": 4,
+      "title": "The Silver River",
+      "words": 2985
+    },
+    {
+      "ch": 5,
+      "title": "The Deadlands Chorus",
+      "words": 2985
+    },
+    {
+      "ch": 6,
+      "title": "The Curator's Gaze",
+      "words": 2985
+    },
+    {
+      "ch": 7,
+      "title": "The First Glyph",
+      "words": 2985
+    },
+    {
+      "ch": 8,
+      "title": "The Breath of Soil",
+      "words": 2985
+    },
+    {
+      "ch": 9,
+      "title": "Kael's Betrayal",
+      "words": 2985
+    },
+    {
+      "ch": 10,
+      "title": "The Corporate Dig",
+      "words": 2985
+    },
+    {
+      "ch": 11,
+      "title": "The Living Archive",
+      "words": 2985
+    },
+    {
+      "ch": 12,
+      "title": "The Heartwood Codex",
+      "words": 2985
+    },
+    {
+      "ch": 13,
+      "title": "A Psalm of Mycelium",
+      "words": 2985
+    },
+    {
+      "ch": 14,
+      "title": "The Un-Curation",
+      "words": 2985
+    },
+    {
+      "ch": 15,
+      "title": "Broadway's Last Performance",
+      "words": 2985
+    },
+    {
+      "ch": 16,
+      "title": "Elara's Choice",
+      "words": 2985
+    },
+    {
+      "ch": 17,
+      "title": "The Signal in the Sap",
+      "words": 2985
+    },
+    {
+      "ch": 18,
+      "title": "Writing with Roots",
+      "words": 2985
+    },
+    {
+      "ch": 19,
+      "title": "The City's Immune Response",
+      "words": 2985
+    },
+    {
+      "ch": 20,
+      "title": "A Thief of Sunlight",
+      "words": 2985
+    },
+    {
+      "ch": 21,
+      "title": "The Bardo Burns",
+      "words": 2985
+    },
+    {
+      "ch": 22,
+      "title": "Seeding the Server-Cloud",
+      "words": 2985
+    },
+    {
+      "ch": 23,
+      "title": "Not a Song, a Seed",
+      "words": 2985
+    },
+    {
+      "ch": 24,
+      "title": "The New Rain",
+      "words": 2985
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character 'reads' a non-digital text in the Sprawl (e.g., the pattern of cracks in a wall, the flight of a rare bird, the taste of unprocessed water).",
+      "Create a folio of 'civic poetry' from the Municipal servers—bureaucratic, compliance-focused verse that Cassian might disdain but find useful.",
+      "Draft a chapter from the perspective of a Curator, tasked with analyzing and neutralizing the 'organic signal' as a threat to civic harmony.",
+      "Write a monologue for Elara, the bartender of The Bardo, explaining why she keeps 'none of the stories' for herself."
+    ],
+    "technical": [
+      "Design a 'dermal layer' interface system: a speculative UI/UX for how citizens might tune their skin to filter or absorb the data-rain.",
+      "Build a generative text model that produces 'Pre-Fall Organic Fragments'—short, ambiguous, nature-adjacent texts that feel discovered, not written."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William S. Burroughs (cut-up technique, linguistic control)",
+      "Ursula K. Le Guin (mythopoeic anthropology, nature/culture)",
+      "Jorge Luis Borges (libraries as universes, metaphysical reality)",
+      "Donna Haraway (cyborg theory, naturecultures)"
+    ]
+  },
+  "cover_prompt": "A lone figure, a data-thief clad in layered, rain-slicked fabrics, kneels in a flooded alleyway, their hand submerged not in water but in a glowing, liquid stream of cascading data-rain, from which a single, luminous and impossibly real tree root begins to physically emerge and coil around their fingers. The scene is a neo-noir cityscape of towering data-spires and decaying concrete, where digital rain falls in shimmering curtains, and vibrant, organic moss and circuitry compete across wet surfaces, creating a tapestry of curated civilization and wild, remembered nature. In the atmospheric style of a synthesis between Moebius's intricate linework and the dense, symbolic urban melancholy of Edward Hopper, rendered as a hyper-detailed matte painting with analog texture. Book cover framing, a centered and intimate composition viewed from a low, dramatic angle that emphasizes the thief's act of reverence and the root's ascent. Cinematic chiaroscuro lighting where the only illumination comes from the bioluminescent data-rain and the root's own soft glow, casting long, dramatic shadows, within a color palette of deep indigo, electric cyan, and data-stream gold contrasted against muted concrete grays and the rich, earthy umber of the living root. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
