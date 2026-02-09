@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The rain in the city wasn’t water. It was data. A fine, persistent mist of it, falling from the low-slung clouds of the municipal server banks, collecting in oily puddles of fragmented narratives on the cracked permacrete. You didn’t get wet; you got annotated. Your skin registered the faint, tingling buzz of a thousand half-formed stories, advertisements, municipal decrees, and private griefs, all seeking a receptor. Most citizens kept their dermal layers tuned to ‘sheer,’ letting it bead and run off. Cassian let his soak in. He was a receptor by trade.
+Kerouac’s ghost was a cheap drunk, slumped between the steel stacks of the library. He kept whispering about black roads and holy goofs, but all I could smell was mimeograph ink and the wet-earth rot of the potted ficus dying by the window.
+
+
 
 He moved through the thrum of the Sprawl’s central artery, a channel of bodies and light they still called Broadway, though no play had been performed there in three generations. The light was the performance now—neon ghosts of old brands, holographic beckonings, the shimmering, anxious aura of the crowd’s aggregate bio-readings painting the air a nervous gold. Cassian’s boots, soled with salvaged truck tire, didn’t splash. They crunched on the discarded shells of memory chips, brittle as insect carapaces.
 
